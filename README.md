@@ -4,3 +4,6 @@ O projeto consiste no desenvolvimento de uma máquina preditiva, baseada em mode
 
 O objetivo do conjunto de dados é prever diagnosticamente se um paciente tem ou não diabetes, com base em certas medições diagnósticas incluídas no conjunto de dados. Várias restrições foram colocadas na seleção dessas instâncias de um banco de dados maior.
 
+A abordagem com Regressão Logística foi escolhida por ser uma técnica estatística amplamente utilizada em problemas de classificação binária, combinando eficiência e interpretabilidade. A partir desses fatores, o modelo fornece uma probabilidade para o diagnóstico de diabetes, permitindo uma avaliação fundamentada.
+
+
