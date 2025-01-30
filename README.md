@@ -20,7 +20,7 @@ Os dados utilizados neste projeto são provenientes do dataset "Pima Indians Dia
 
 ## Resultados
 
-Os resultados obtidos indicam que o modelo de **Regressão Logística**, mesmo com parâmetros default, apresentou uma acurácia de **77.86%**, superando o melhor resultado da **Árvore de Decisão** otimizada, que foi de **74.75%**.
+Os resultados obtidos indicam que o modelo de **Regressão Logística**, mesmo com parâmetros default, apresentou uma acurácia de **77.86%**, superando o melhor resultado da **Árvore de Decisão** otimizada, que foi de **75.01%**.
 
 ## Conclusões
 
